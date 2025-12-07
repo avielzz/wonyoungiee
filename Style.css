@@ -1,0 +1,90 @@
+    body {
+        background-image: url(https://i.pinimg.com/736x/af/45/f1/af45f1d383665d1671aa6c28a2d2451a.jpg); background-size: 100%;
+        color: 	#150604;
+        cursor: url(https://64.media.tumblr.com/78f17cbcaf4d178da64712470930f589/56ad820d3a300402-b6/s75x75_c1/2de9c97052120778ed229578e8727b01d9741562.pnj),auto;
+    }
+    #homepage {
+        border: 10px solid #F7DAE7;
+        width: 33.3333333333%;
+        height: 250px;
+    }
+        #blog {
+        border: 10px solid #F7DAE7;
+        width: 33.3333333333%;
+        height: 250px;
+    }
+        #rants {
+        border: 10px solid #F7DAE7;
+        width: 33.3333333333%;
+        height: 250px;
+    }
+        #randomshit {
+        border: 10px solid #F7DAE7;
+        width: 33.3333333333%;
+        height: 250px;
+    }
+    #playlist {
+        border: 10px solid #e4daf7;
+        width: 33.3333333333%;
+        height: 250px;
+    }
+    #socials {
+        border: 10px solid #e4daf7;
+        width: 33.3333333333%;
+        height: 250px;
+    }
+    #header {
+        font-family: 'Rubik Puddles'; font-size: 120px;
+        margin-left: 100px;
+        margin-top: 10px;
+        align-self: center;
+        padding: 0px;
+    }
+    #divforheader {
+        background-image: url(https://i.pinimg.com/1200x/7f/3d/a6/7f3da6fa68ff778da543c96a924ba1c1.jpg); height: 300px;
+        border-radius: 50px;
+        border-image-source: url(https://i.pinimg.com/736x/f5/1f/87/f51f875e754d25ac90fbc15242226030.jpg);        
+        border-width: 30px;
+        border-style: solid;
+        margin: 30px;
+        border-image-slice: 10;
+    }
+        #subheader {
+        font-family: 'Rubik Puddles'; font-size: 50px;
+        margin: 10px;
+        }
+        .imgs {
+            border: 30px solid #fff3f0;
+            width: 400px;
+            height: 400px;
+            margin: 30px;
+        }
+        #iframe1 {
+            border: 30px solid #fff3f0;
+            width: 400px;
+            height: 400px;
+            margin-top: 30px;
+        }
+        #iframe2 {
+            border: 30px solid #fff3f0;
+            width: 235px;
+            height: 400px;
+            background-color: #f5f5f5;
+            margin: 30px;
+                }
+        .img2 {
+            border: 0px solid white;
+            margin: 10px;   
+            width: 400px;
+            height: 400px;     
+            cursor: url(https://64.media.tumblr.com/78f17cbcaf4d178da64712470930f589/56ad820d3a300402-b6/s75x75_c1/2de9c97052120778ed229578e8727b01d9741562.pnj),auto;
+        }
+        .div {
+            border: 30px solid #fff3f0;
+            width: 830px;
+            height: fit-content;
+            margin-left: 30px;
+            background-color: #f5f5f5;
+            font-family: 'Gamja Flower'; font-size: 30px;
+            padding: 10px;
+        }

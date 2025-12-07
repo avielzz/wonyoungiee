@@ -1,0 +1,18 @@
+    body {
+        background-image: url(https://i.pinimg.com/originals/57/ef/6e/57ef6e45a08278f78e23a12c292f0f8a.gif); 
+        background-repeat: no-repeat;
+        background-size: cover;
+        cursor: url(https://64.media.tumblr.com/7abf363188ef73fb25f0a7c05dbe7e5e/f032565b6e99eea7-57/s75x75_c1/e0f2bd97e80fe03d3af0b908793e43a799b8bf12.gif), auto;
+    }
+    .div {
+        margin: 30px;
+        width: 400px;
+        height: 450px;
+        border: 10px solid #330000;
+        border-radius: 5px;
+    }
+    .images {
+        margin: 30px;
+        width:800px;
+        height: 450px;
+    }
