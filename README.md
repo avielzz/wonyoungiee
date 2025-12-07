@@ -1,0 +1,1 @@
+Hi so this is just a website made by me that i use to, like, express myself ig? I post my art, write blogs etc etc.. And if I'm being honest I don't really care if you use my code, unless you're stealing it all now THAT'S a problem but other than that if you're just studying it then I'm honored to help!!
